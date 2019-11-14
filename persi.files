@@ -9,8 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="maps.files/filelist.xml">
-<link rel=Edit-Time-Data href="maps.files/editdata.mso">
+<link rel=File-List href="persi.files/filelist.xml">
+<link rel=Edit-Time-Data href="persi.files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -19,30 +19,29 @@ w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
 <![endif]-->
-<title>Карты</title>
+<title>Персонажи</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>User</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Ученик</o:LastAuthor>
   <o:Revision>6</o:Revision>
-  <o:TotalTime>49</o:TotalTime>
+  <o:TotalTime>17</o:TotalTime>
   <o:Created>2019-10-31T08:27:00Z</o:Created>
   <o:LastSaved>2019-11-14T13:20:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>44</o:Words>
-  <o:Characters>253</o:Characters>
+  <o:Words>51</o:Words>
+  <o:Characters>292</o:Characters>
   <o:Lines>2</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>296</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>342</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
-<link rel=themeData href="maps.files/themedata.thmx">
-<link rel=colorSchemeMapping href="maps.files/colorschememapping.xml">
+<link rel=themeData href="persi.files/themedata.thmx">
+<link rel=colorSchemeMapping href="persi.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
@@ -927,9 +926,6 @@ span.mw-editsection-bracket
 span.mw-editsection-divider
 	{mso-style-name:mw-editsection-divider;
 	mso-style-unhide:no;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -1048,12 +1044,12 @@ table.MsoTableGrid
    </v:formulas>
    <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
    <o:lock v:ext="edit" aspectratio="t"/>
-  </v:shapetype><v:shape id="Рисунок_x0020_1" o:spid="_x0000_i1033" type="#_x0000_t75"
+  </v:shapetype><v:shape id="Рисунок_x0020_1" o:spid="_x0000_i1049" type="#_x0000_t75"
    alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
    style='width:189pt;height:141.75pt;visibility:visible;mso-wrap-style:square'>
-   <v:imagedata src="maps.files/image001.jpg" o:title="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"/>
+   <v:imagedata src="persi.files/image001.jpg" o:title="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"/>
   </v:shape><![endif]--><![if !vml]><img width=252 height=189
-  src="maps.files/image002.jpg" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+  src="persi.files/image002.jpg" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
   v:shapes="Рисунок_x0020_1"><![endif]></span></p>
   </td>
   <td width=319 colspan=2 style='width:239.3pt;border:solid black 1.0pt;
@@ -1123,222 +1119,442 @@ table.MsoTableGrid
   mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
   text1;padding:0cm 5.4pt 0cm 5.4pt;height:346.8pt'>
   <div align=center>
-  <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
-   style='border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
-   mso-border-themecolor:text1;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
-   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-    <td width=244 style='width:183.0pt;border:solid black 1.0pt;mso-border-themecolor:
+  <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=1285
+   style='width:34.0cm;border-collapse:collapse;border:none;mso-border-alt:
+   solid black .5pt;mso-border-themecolor:text1;mso-yfti-tbllook:1184;
+   mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:185.0pt'>
+    <td width=227 style='width:6.0cm;border:solid black 1.0pt;mso-border-themecolor:
     text1;mso-border-alt:solid black .5pt;mso-border-themecolor:text1;
-    padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:11.0pt;line-height:115%;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
-     id="Рисунок_x0020_28" o:spid="_x0000_i1032" type="#_x0000_t75" alt="Похожее изображение"
-     style='width:171pt;height:118.5pt;visibility:visible;mso-wrap-style:square'>
-     <v:imagedata src="maps.files/image004.png" o:title="Похожее изображение"/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=228 height=158
-    src="maps.files/image020.gif" alt="Похожее изображение" v:shapes="Рисунок_x0020_28"><![endif]></span><span
-    style='font-size:11.0pt;line-height:115%;mso-fareast-language:EN-US'><o:p></o:p></span></p>
+    padding:0cm 5.4pt 0cm 5.4pt;height:185.0pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_3" o:spid="_x0000_i1048" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+     style='width:93.75pt;height:99pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image004.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=125 height=132
+    src="persi.files/image052.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+    v:shapes="Рисунок_x0020_3"><![endif]></span><span style='font-size:22.0pt'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt'>шелли<o:p></o:p></span></p>
     </td>
-    <td width=256 style='width:191.75pt;border:solid black 1.0pt;mso-border-themecolor:
+    <td width=227 style='width:6.0cm;border:solid black 1.0pt;mso-border-themecolor:
     text1;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:
     text1;mso-border-alt:solid black .5pt;mso-border-themecolor:text1;
-    padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:11.0pt;line-height:115%;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
-     id="Рисунок_x0020_26" o:spid="_x0000_i1031" type="#_x0000_t75" alt="Картинки по запросу карты бравл старс"
-     style='width:179.25pt;height:114pt;visibility:visible;mso-wrap-style:square'>
-     <v:imagedata src="maps.files/image006.jpg" o:title="Картинки по запросу карты бравл старс"/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=239 height=152
-    src="maps.files/image021.jpg" alt="Картинки по запросу карты бравл старс"
-    v:shapes="Рисунок_x0020_26"><![endif]></span><span style='font-size:11.0pt;
-    line-height:115%;mso-fareast-language:EN-US'><o:p></o:p></span></p>
+    padding:0cm 5.4pt 0cm 5.4pt;height:185.0pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_4" o:spid="_x0000_i1047" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+     style='width:96pt;height:105.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image006.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=128 height=141
+    src="persi.files/image053.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+    v:shapes="Рисунок_x0020_4"><![endif]></span><span style='font-size:22.0pt'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt'>пенни<o:p></o:p></span></p>
     </td>
-    <td width=234 style='width:175.5pt;border:solid black 1.0pt;mso-border-themecolor:
+    <td width=227 style='width:6.0cm;border:solid black 1.0pt;mso-border-themecolor:
     text1;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:
     text1;mso-border-alt:solid black .5pt;mso-border-themecolor:text1;
-    padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:11.0pt;line-height:115%;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
-     id="Рисунок_x0020_29" o:spid="_x0000_i1030" type="#_x0000_t75" alt="Похожее изображение"
-     style='width:162.75pt;height:112.5pt;visibility:visible;mso-wrap-style:square'>
-     <v:imagedata src="maps.files/image008.jpg" o:title="Похожее изображение"/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=217 height=150
-    src="maps.files/image022.jpg" alt="Похожее изображение" v:shapes="Рисунок_x0020_29"><![endif]></span><span
-    style='font-size:11.0pt;line-height:115%;mso-fareast-language:EN-US'><o:p></o:p></span></p>
+    padding:0cm 5.4pt 0cm 5.4pt;height:185.0pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_5" o:spid="_x0000_i1046" type="#_x0000_t75" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+     style='width:101.25pt;height:107.25pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image008.png" o:title="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=135 height=143
+    src="persi.files/image054.gif" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+    v:shapes="Рисунок_x0020_5"><![endif]></span><span style='font-size:22.0pt'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt'>мортис<o:p></o:p></span></p>
     </td>
-    <td width=245 style='width:183.6pt;border:solid black 1.0pt;mso-border-themecolor:
+    <td width=227 style='width:6.0cm;border:solid black 1.0pt;mso-border-themecolor:
     text1;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:
     text1;mso-border-alt:solid black .5pt;mso-border-themecolor:text1;
-    padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:11.0pt;line-height:115%;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
-     id="Рисунок_x0020_27" o:spid="_x0000_i1029" type="#_x0000_t75" alt="Похожее изображение"
-     style='width:171pt;height:112.5pt;visibility:visible;mso-wrap-style:square'>
-     <v:imagedata src="maps.files/image010.jpg" o:title="Похожее изображение"/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=228 height=150
-    src="maps.files/image023.jpg" alt="Похожее изображение" v:shapes="Рисунок_x0020_27"><![endif]></span><span
-    style='font-size:11.0pt;line-height:115%;mso-fareast-language:EN-US'><o:p></o:p></span></p>
+    padding:0cm 5.4pt 0cm 5.4pt;height:185.0pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="_x0000_i1045" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+     style='width:104.25pt;height:104.25pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image010.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=139 height=139
+    src="persi.files/image055.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+    v:shapes="_x0000_i1045"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri'>кольт</span><span style='font-size:22.0pt'><o:p></o:p></span></p>
+    </td>
+    <td width=227 style='width:6.0cm;border:solid black 1.0pt;mso-border-themecolor:
+    text1;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:
+    text1;mso-border-alt:solid black .5pt;mso-border-themecolor:text1;
+    padding:0cm 5.4pt 0cm 5.4pt;height:185.0pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_6" o:spid="_x0000_i1044" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+     style='width:107.25pt;height:110.25pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image012.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=143 height=147
+    src="persi.files/image056.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+    v:shapes="Рисунок_x0020_6"><![endif]></span><span style='font-size:22.0pt'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt'>тара<o:p></o:p></span></p>
+    </td>
+    <td width=227 style='width:6.0cm;border:solid black 1.0pt;mso-border-themecolor:
+    text1;border-left:none;mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:
+    text1;mso-border-alt:solid black .5pt;mso-border-themecolor:text1;
+    padding:0cm 5.4pt 0cm 5.4pt;height:185.0pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_7" o:spid="_x0000_i1043" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+     style='width:111.75pt;height:105pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image014.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=149 height=140
+    src="persi.files/image057.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+    v:shapes="Рисунок_x0020_7"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri'>брок</span><span style='font-size:22.0pt'><o:p></o:p></span></p>
     </td>
    </tr>
    <tr style='mso-yfti-irow:1'>
-    <td width=244 style='width:183.0pt;border:solid black 1.0pt;mso-border-themecolor:
+    <td width=227 style='width:6.0cm;border:solid black 1.0pt;mso-border-themecolor:
     text1;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:
     text1;mso-border-alt:solid black .5pt;mso-border-themecolor:text1;
     padding:0cm 5.4pt 0cm 5.4pt'>
-    <p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:
-    0cm;line-height:115%'><span style='font-size:14.0pt;line-height:115%;
-    mso-fareast-language:EN-US'><span style='mso-spacerun:yes'>           
-    </span>валуны<o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_8" o:spid="_x0000_i1042" type="#_x0000_t75" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+     style='width:120.75pt;height:138.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image016.png" o:title="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=161 height=185
+    src="persi.files/image058.gif" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+    v:shapes="Рисунок_x0020_8"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri'>нита</span><span style='font-size:22.0pt'><o:p></o:p></span></p>
     </td>
-    <td width=256 style='width:191.75pt;border-top:none;border-left:none;
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
     border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
     border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
     mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
     mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
     mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:14.0pt;line-height:115%;mso-fareast-language:EN-US'>штольня<o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_9" o:spid="_x0000_i1041" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+     style='width:123pt;height:117.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image018.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=164 height=157
+    src="persi.files/image059.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+    v:shapes="Рисунок_x0020_9"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri'>Эль<span style='mso-spacerun:yes'> 
+    </span>примо</span><span style='font-size:22.0pt'><o:p></o:p></span></p>
     </td>
-    <td width=234 style='width:175.5pt;border-top:none;border-left:none;
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
     border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
     border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
     mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
     mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
     mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
-    <p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:
-    0cm;line-height:115%'><span style='font-size:14.0pt;line-height:115%;
-    mso-fareast-language:EN-US'><span
-    style='mso-spacerun:yes'>                   </span></span><span lang=EN-US
-    style='font-size:14.0pt;line-height:115%;mso-ansi-language:EN-US;
-    mso-fareast-language:EN-US'>Showdown<o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_10" o:spid="_x0000_i1040" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+     style='width:105pt;height:123pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image020.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=140 height=164
+    src="persi.files/image060.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+    v:shapes="Рисунок_x0020_10"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri'>барли</span><span style='font-size:22.0pt'><o:p></o:p></span></p>
     </td>
-    <td width=245 style='width:183.6pt;border-top:none;border-left:none;
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
     border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
     border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
     mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
     mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
     mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:14.0pt;line-height:115%;mso-fareast-language:EN-US'>Озеро
-    мертвецов<o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_11" o:spid="_x0000_i1039" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+     style='width:114.75pt;height:108.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image022.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=153 height=145
+    src="persi.files/image061.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+    v:shapes="Рисунок_x0020_11"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri'>биби</span><span style='font-size:22.0pt'><o:p></o:p></span></p>
+    </td>
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
+    border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+    border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
+    mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
+    mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
+    mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_12" o:spid="_x0000_i1038" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+     style='width:135pt;height:141.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image024.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=180 height=189
+    src="persi.files/image062.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &Ntilde;&#129;&ETH;&ordm;&ETH;&cedil;&ETH;&frac12;&Ntilde;&#139; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129;"
+    v:shapes="Рисунок_x0020_12"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri'>роза</span><span style='font-size:22.0pt'><o:p></o:p></span></p>
+    </td>
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
+    border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+    border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
+    mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
+    mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
+    mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_13" o:spid="_x0000_i1037" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+     style='width:110.25pt;height:128.25pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image026.jpg" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=147 height=171
+    src="persi.files/image063.jpg"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+    v:shapes="Рисунок_x0020_13"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri'>лион</span><span style='font-size:22.0pt'><o:p></o:p></span></p>
     </td>
    </tr>
    <tr style='mso-yfti-irow:2'>
-    <td width=244 style='width:183.0pt;border:solid black 1.0pt;mso-border-themecolor:
+    <td width=227 style='width:6.0cm;border:solid black 1.0pt;mso-border-themecolor:
     text1;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:
     text1;mso-border-alt:solid black .5pt;mso-border-themecolor:text1;
     padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:11.0pt;line-height:115%;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
-     id="Рисунок_x0020_30" o:spid="_x0000_i1028" type="#_x0000_t75" alt="Похожее изображение"
-     style='width:168pt;height:119.25pt;visibility:visible;mso-wrap-style:square'>
-     <v:imagedata src="maps.files/image012.jpg" o:title="Похожее изображение"/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=224 height=159
-    src="maps.files/image024.jpg" alt="Похожее изображение" v:shapes="Рисунок_x0020_30"><![endif]></span><span
-    style='font-size:11.0pt;line-height:115%;mso-fareast-language:EN-US'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_14" o:spid="_x0000_i1036" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+     style='width:116.25pt;height:130.5pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image028.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=155 height=174
+    src="persi.files/image064.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+    v:shapes="Рисунок_x0020_14"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'>джин</span><span
+    style='font-size:22.0pt'><o:p></o:p></span></p>
     </td>
-    <td width=256 style='width:191.75pt;border-top:none;border-left:none;
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
     border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
     border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
     mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
     mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
     mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:11.0pt;line-height:115%;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
-     id="Рисунок_x0020_31" o:spid="_x0000_i1027" type="#_x0000_t75" alt="Похожее изображение"
-     style='width:178.5pt;height:120.75pt;visibility:visible;mso-wrap-style:square'>
-     <v:imagedata src="maps.files/image014.jpg" o:title="Похожее изображение"/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=238 height=161
-    src="maps.files/image025.jpg" alt="Похожее изображение" v:shapes="Рисунок_x0020_31"><![endif]></span><span
-    style='font-size:11.0pt;line-height:115%;mso-fareast-language:EN-US'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_15" o:spid="_x0000_i1035" type="#_x0000_t75" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+     style='width:118.5pt;height:132pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image030.png" o:title="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=158 height=176
+    src="persi.files/image065.gif" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+    v:shapes="Рисунок_x0020_15"><![endif]>карл</span><span style='font-size:
+    22.0pt'><o:p></o:p></span></p>
     </td>
-    <td width=234 style='width:175.5pt;border-top:none;border-left:none;
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
     border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
     border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
     mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
     mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
     mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:11.0pt;line-height:115%;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
-     id="Рисунок_x0020_35" o:spid="_x0000_i1026" type="#_x0000_t75" alt="Похожее изображение"
-     style='width:214.5pt;height:118.5pt;visibility:visible;mso-wrap-style:square'>
-     <v:imagedata src="maps.files/image016.jpg" o:title="Похожее изображение"/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=286 height=158
-    src="maps.files/image026.jpg" alt="Похожее изображение" v:shapes="Рисунок_x0020_35"><![endif]></span><span
-    style='font-size:11.0pt;line-height:115%;mso-fareast-language:EN-US'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_16" o:spid="_x0000_i1034" type="#_x0000_t75" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+     style='width:106.5pt;height:119.25pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image032.png" o:title="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=142 height=159
+    src="persi.files/image066.gif" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+    v:shapes="Рисунок_x0020_16"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'>диномайк</span><span
+    style='font-size:22.0pt'><o:p></o:p></span></p>
     </td>
-    <td width=245 style='width:183.6pt;border-top:none;border-left:none;
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
     border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
     border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
     mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
     mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
     mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:11.0pt;line-height:115%;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
-     id="Рисунок_x0020_34" o:spid="_x0000_i1025" type="#_x0000_t75" alt="Похожее изображение"
-     style='width:196.5pt;height:117pt;visibility:visible;mso-wrap-style:square'>
-     <v:imagedata src="maps.files/image018.jpg" o:title="Похожее изображение"/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=262 height=156
-    src="maps.files/image027.jpg" alt="Похожее изображение" v:shapes="Рисунок_x0020_34"><![endif]></span><span
-    style='font-size:11.0pt;line-height:115%;mso-fareast-language:EN-US'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_17" o:spid="_x0000_i1033" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+     style='width:114.75pt;height:126pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image034.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=153 height=168
+    src="persi.files/image067.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+    v:shapes="Рисунок_x0020_17"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'>спайк</span><span
+    style='font-size:22.0pt'><o:p></o:p></span></p>
+    </td>
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
+    border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+    border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
+    mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
+    mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
+    mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_18" o:spid="_x0000_i1032" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+     style='width:108pt;height:160.5pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image036.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=144 height=214
+    src="persi.files/image068.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+    v:shapes="Рисунок_x0020_18"><![endif]></span><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri'>ворон</span><span style='font-size:22.0pt'><o:p></o:p></span></p>
+    </td>
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
+    border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+    border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
+    mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
+    mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
+    mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_19" o:spid="_x0000_i1031" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+     style='width:113.25pt;height:188.25pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image038.jpg" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=151 height=251
+    src="persi.files/image069.jpg"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+    v:shapes="Рисунок_x0020_19"><![endif]>Пайпер</span><span style='font-size:
+    22.0pt'><o:p></o:p></span></p>
     </td>
    </tr>
    <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
-    <td width=244 style='width:183.0pt;border:solid black 1.0pt;mso-border-themecolor:
+    <td width=227 style='width:6.0cm;border:solid black 1.0pt;mso-border-themecolor:
     text1;border-top:none;mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:
     text1;mso-border-alt:solid black .5pt;mso-border-themecolor:text1;
     padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    class=SpellE><span style='font-size:14.0pt;line-height:115%;mso-fareast-language:
-    EN-US'>сюрикен</span></span><span style='font-size:14.0pt;line-height:115%;
-    mso-fareast-language:EN-US'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_20" o:spid="_x0000_i1030" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+     style='width:137.25pt;height:141pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image040.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=183 height=188
+    src="persi.files/image070.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+    v:shapes="Рисунок_x0020_20"><![endif]>деррил</span><span style='font-size:
+    22.0pt'><o:p></o:p></span></p>
     </td>
-    <td width=256 style='width:191.75pt;border-top:none;border-left:none;
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
     border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
     border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
     mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
     mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
     mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:14.0pt;line-height:115%;mso-fareast-language:EN-US'>взрыв<o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_21" o:spid="_x0000_i1029" type="#_x0000_t75" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+     style='width:139.5pt;height:183pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image042.png" o:title="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=186 height=244
+    src="persi.files/image071.gif" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+    v:shapes="Рисунок_x0020_21"><![endif]>рико</span><span style='font-size:
+    22.0pt'><o:p></o:p></span></p>
     </td>
-    <td width=234 style='width:175.5pt;border-top:none;border-left:none;
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
     border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
     border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
     mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
     mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
     mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:14.0pt;line-height:115%;mso-fareast-language:EN-US'>Крестики
-    нолики<o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_22" o:spid="_x0000_i1028" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+     style='width:129.75pt;height:182.25pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image044.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=173 height=243
+    src="persi.files/image072.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil;"
+    v:shapes="Рисунок_x0020_22"><![endif]>поко</span><span style='font-size:
+    22.0pt'><o:p></o:p></span></p>
     </td>
-    <td width=245 style='width:183.6pt;border-top:none;border-left:none;
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
     border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
     border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
     mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
     mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
     mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
-    <p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
-    6.0pt;margin-left:0cm;text-align:center;line-height:115%'><span
-    style='font-size:14.0pt;line-height:115%;mso-fareast-language:EN-US'>Скрытный
-    бой<o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_23" o:spid="_x0000_i1027" type="#_x0000_t75" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+     style='width:138pt;height:224.25pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image046.png" o:title="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=184 height=299
+    src="persi.files/image073.gif" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+    v:shapes="Рисунок_x0020_23"><![endif]>Рикошет</span><span style='font-size:
+    22.0pt'><o:p></o:p></span></p>
+    </td>
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
+    border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+    border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
+    mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
+    mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
+    mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='mso-bidi-font-family:
+    Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_24" o:spid="_x0000_i1026" type="#_x0000_t75" alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; 8 &ETH;±&ETH;&cedil;&Ntilde;&#130;"
+     style='width:129.75pt;height:141.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image048.png" o:title="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; 8 &ETH;±&ETH;&cedil;&Ntilde;&#130;"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=173 height=189
+    src="persi.files/image074.gif"
+    alt="&ETH;&#154;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; &ETH;&iquest;&ETH;&frac34; &ETH;·&ETH;°&ETH;&iquest;&Ntilde;&#128;&ETH;&frac34;&Ntilde;&#129;&Ntilde;&#131; &ETH;±&Ntilde;&#128;&ETH;°&ETH;&sup2;&ETH;» &Ntilde;&#129;&Ntilde;&#130;&ETH;°&Ntilde;&#128;&Ntilde;&#129; &ETH;&ordm;&ETH;°&Ntilde;&#128;&Ntilde;&#130;&ETH;&cedil;&ETH;&frac12;&ETH;&ordm;&ETH;&cedil; 8 &ETH;±&ETH;&cedil;&Ntilde;&#130;"
+    v:shapes="Рисунок_x0020_24"><![endif]></span><span style='font-size:22.0pt;
+    mso-fareast-language:RU;mso-no-proof:yes'><o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-fareast-language:RU;mso-no-proof:yes'>8 бит</span><span
+    style='font-size:22.0pt'><o:p></o:p></span></p>
+    </td>
+    <td width=227 style='width:6.0cm;border-top:none;border-left:none;
+    border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+    border-right:solid black 1.0pt;mso-border-right-themecolor:text1;
+    mso-border-top-alt:solid black .5pt;mso-border-top-themecolor:text1;
+    mso-border-left-alt:solid black .5pt;mso-border-left-themecolor:text1;
+    mso-border-alt:solid black .5pt;mso-border-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:22.0pt;
+    mso-bidi-font-family:Calibri;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Рисунок_x0020_25" o:spid="_x0000_i1025" type="#_x0000_t75" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+     style='width:135pt;height:174.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="persi.files/image050.png" o:title="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=180 height=233
+    src="persi.files/image075.gif" alt="&ETH;&#159;&ETH;&frac34;&Ntilde;&#133;&ETH;&frac34;&ETH;¶&ETH;µ&ETH;µ &ETH;&cedil;&ETH;·&ETH;&frac34;&ETH;±&Ntilde;&#128;&ETH;°&ETH;¶&ETH;µ&ETH;&frac12;&ETH;&cedil;&ETH;µ"
+    v:shapes="Рисунок_x0020_25"><![endif]>пэм</span><span style='font-size:
+    22.0pt'><o:p></o:p></span></p>
     </td>
    </tr>
   </table>
   </div>
+  <p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:
+  0cm;line-height:115%;background:white'><span style='font-size:11.0pt;
+  line-height:115%;mso-fareast-language:EN-US'><span style='mso-spacerun:yes'> 
+  </span><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
@@ -1352,10 +1568,10 @@ table.MsoTableGrid
  </tr>
  <![if !supportMisalignedColumns]>
  <tr height=0>
-  <td width=4564 style='border:none'></td>
-  <td width=3879 style='border:none'></td>
-  <td width=3803 style='border:none'></td>
-  <td width=4082 style='border:none'></td>
+  <td width=364 style='border:none'></td>
+  <td width=309 style='border:none'></td>
+  <td width=303 style='border:none'></td>
+  <td width=325 style='border:none'></td>
  </tr>
  <![endif]>
 </table>
